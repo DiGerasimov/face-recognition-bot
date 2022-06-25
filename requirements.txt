@@ -1,0 +1,5 @@
+# sudo python3 -m pip install --upgrade setuptools
+# sudo python3 -m pip install disptools
+
+
+face-recognition-models>=0.3.0
